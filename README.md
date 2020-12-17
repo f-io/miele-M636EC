@@ -2,6 +2,8 @@
 
 Replacement keypad for a Miele M636EC.
 
+<img src="https://github.com/f-io/Miele-M636EC/blob/main/M363EC.png" width="157" height="474">
+
 The layout let you choose between the old plastic film or tactile switches. <br>
 I've choosen the old plastic film, if it failes in the future you can just solder in switches.
 
@@ -28,3 +30,4 @@ The original keypad is known to fail, maybe you can repair your microwave as wel
 ![Top](m636EC_top.png?raw=true "Top layer")
 
 ![Bottom](m636EC_bottom.png?raw=true "Bottom layer")
+
