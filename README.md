@@ -21,3 +21,10 @@ E15 or E = Temperature error - deleteable "C" <br>
 
 Miele did not want to supply the required spare parts, they just offered a new microwave oven. <br>
 The original keypad is known to fail, maybe you can repair your microwave as well to help reduce electronic waste!<br>
+
+
+## Images
+
+![Top](m636EC_top.png?raw=true "Top layer")
+
+![Bottom](m636EC_bottom.png?raw=true "Bottom layer")
